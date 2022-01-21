@@ -12,6 +12,7 @@ export default ({
             <div class="tui-image-editor-header-logo">
                 <img src="${biImage}" />
             </div>
+<h1>testing heading</h1>
             <div class="tui-image-editor-header-buttons">
                 <div style="${loadButtonStyle}">
                     ${locale.localize('Load')}
